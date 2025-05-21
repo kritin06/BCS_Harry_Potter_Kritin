@@ -13,4 +13,4 @@ Visualised both using pygame
 
 
 https://drive.google.com/drive/folders/18UZGRifeuT-93U_7hMa2uB4SZHe5z7o0?usp=sharing
-also I could not upload the Q Table .pkl file as it was very large, I came up with a way round it(chatgpt did) I have uploaded the file to my google drive and shred the link hope that is not an issue.
+also I could not upload the Q Table .pkl file as it was very large, I came up with a way round it(chatgpt did) I have uploaded the file to my google drive and shared the link hope that is not an issue.
