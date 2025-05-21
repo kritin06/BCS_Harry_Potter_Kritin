@@ -10,7 +10,8 @@ Also I kept a target network to stabilise my target for a while after which I up
 I have also plotted the moving averages here as well
 Visualised both using pygame
 
-Harry Potter = DQN
+Harry Potter = DQN,
+
 Harry Potter1 = Q Table
 
 
