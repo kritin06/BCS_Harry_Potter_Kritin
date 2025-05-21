@@ -9,3 +9,8 @@ Used the same environment for the DQN and changed the weights of the network usi
 Also I kept a target network to stabilise my target for a while after which I updated it to the policy
 I have also plotted the moving averages here as well
 Visualised both using pygame
+
+
+
+https://drive.google.com/drive/folders/18UZGRifeuT-93U_7hMa2uB4SZHe5z7o0?usp=sharing
+also I could not upload the Q Table .pkl file as it was very large, I came up with a way round it(chatgpt did) I have uploaded the file to my google drive and shred the link hope that is not an issue.
